@@ -13,7 +13,7 @@ Broke down the project into subproblems such as system time retrieval and charac
 Adhered to good coding practices, ensuring error-free compilation and execution in a Linux environment.
 
 ## Results
-### If no argument is given, useblack and white as default.
+### If no argument is given, use black and white as default.
 ![default](https://github.com/Konara98/CO222-Project-Digital-clock/assets/97779686/a2881f70-3f5b-4f30-829f-ae6c9ff7c3f0)
 
 ###  print the clock using the blue colour
