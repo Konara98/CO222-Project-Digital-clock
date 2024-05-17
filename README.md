@@ -32,4 +32,8 @@ Adhered to good coding practices, ensuring error-free compilation and execution 
 ![cyan](https://github.com/Konara98/CO222-Project-Digital-clock/assets/97779686/afa42de4-9982-4715-8f68-141f869f738d)
 
 ###  If given arguments are invalid, you should print the usages of your program
-![Invalid arguments](https://github.com/Konara98/CO222-Project-Digital-clock/assets/97779686/22ca9e3a-d3a0-46e8-90f9-a1119b582d69)
+![help](https://github.com/Konara98/CO222-Project-Digital-clock/assets/97779686/5140f2a6-383f-4ef6-847d-4717bef2803e)
+![invalid arguments](https://github.com/Konara98/CO222-Project-Digital-clock/assets/97779686/7f78bbf5-9c5a-4956-bc8d-15e8a1ceabb8)
+
+
+
